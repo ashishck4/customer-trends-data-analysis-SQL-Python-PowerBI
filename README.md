@@ -111,8 +111,11 @@ The dataset was cleaned and transformed in Python before loading it into Postgre
 - Loaded the cleaned dataset into PostgreSQL for SQL analysis.
 
 ---
+## Jupyter Snap 
 
 <img width="779" height="472" alt="jupyter1 snap" src="https://github.com/user-attachments/assets/47f9b706-29b6-4db1-abde-fa979f5117b2" />
+
+
 
 <img width="861" height="474" alt="jupyter2 snap" src="https://github.com/user-attachments/assets/aa8d2ddf-4a8a-469b-94f7-3b0be2e3e99b" />
 
@@ -133,11 +136,19 @@ This project answers **10 real-world business questions**.
 9. Are repeat buyers more likely to subscribe?
 10. What is the revenue contribution of each age group?
 
+---
+
+## Query Ouptput/Result
+
+
 <img width="700" height="436" alt="query1 snap" src="https://github.com/user-attachments/assets/5e4e3a4e-3a36-46e9-bdfc-6da9c5dca7dd" />
+
+
 
 <img width="609" height="287" alt="query2 snap" src="https://github.com/user-attachments/assets/59fa384c-277b-407c-bfec-09b905cfd2e6" />
 
-    
+
+---
 
 ### SQL Concepts Used
 
